@@ -5,4 +5,4 @@ My first repository
 - The lord of the rings
 - Avatar
 - The how's of us
-- My ex's amd whys
+- My ex's and whys
